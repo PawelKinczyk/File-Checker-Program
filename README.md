@@ -15,6 +15,8 @@ This program checks the contents of a folder against an Excel list of files. It 
 
 Using the program is very easy. First, download the latest release version and then simply run "File_Checker.exe". All process you can see in film bellow.
 
+https://user-images.githubusercontent.com/96824698/218311052-e88a4ed5-f53b-4338-bfb8-83cfec978715.mp4
+
 ### Authors
 
 - [Paweł Kińczyk](https://produktywnyprojektant.com/o-mnie/) MEP designer and hobby programmer
